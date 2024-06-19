@@ -1,0 +1,10 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#servicePrincipals(id,appId,appDisplayName)",
+  "value": [
+      {
+          "id": "c8162c97-32ff-406d-85d3-cc372e3e8384",
+          "appId": "12f6db80-0741-4a7e-b9c5-b85d737b3a31",
+          "appDisplayName": "GitHub Enterprise Managed User (OIDC)"
+      }
+  ]
+ }
